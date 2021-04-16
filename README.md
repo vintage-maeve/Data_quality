@@ -1,7 +1,13 @@
-# Cloud computing environments to support data science teaching in health - data quality assessment
+# Data quality assessment and improvement
+
+<br>
+Project title: Cloud computing environments to support data science teaching in health
+
+Link to GitHub repository (for project submission): https://github.com/vintage-maeve/data_quality_assessment
 
 Author: Ioana Dumitrescu
 
+<br> </br>
 The purpose of this project is to establish the data quality of a given dataset and then to provide suggestions on how to improve it.
 
 Run the `data_quality_notebook.ipynb` file and then perform the following actions.
