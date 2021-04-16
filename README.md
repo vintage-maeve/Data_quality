@@ -3,7 +3,7 @@
 <br>
 Project title: Cloud computing environments to support data science teaching in health
 
-Link to GitHub repository (for project submission): https://github.com/vintage-maeve/data_quality
+Link to GitHub repository (for project submission): https://github.com/vintage-maeve/data-quality
 
 Author: Ioana Dumitrescu
 
