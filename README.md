@@ -4,6 +4,8 @@ Author: Ioana Dumitrescu
 
 The purpose of this project is to establish the data quality of a given dataset and then to provide suggestions on how to improve it.
 
+Run the `establishing_data_quality.ipynb` file and then perform the following actions.
+
 In order to start using the notebook, upload the data set using either of the 2 provided methods:
 1. `Direct upload` - change the value of the `file_path` variable to the file path of the desired data set
 1. `Use the upload widget` - select the file that you want to upload and then run the cell named `Validating data upload`, which extracts the content of the uploaded data set.
