@@ -46,4 +46,6 @@ The following techniques are used for **assessing the quality of the data set**:
 
 
 `Cleaning the data set` is in charge of performing the transformation functions for **improving the quality of the data set**:
+
+
 ![ezgif com-gif-maker(5)](https://user-images.githubusercontent.com/32450978/115018902-59071080-9eb0-11eb-8acd-4f19e9932ef8.gif)
