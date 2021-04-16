@@ -11,17 +11,17 @@ In order to start using the notebook, upload the data set using either of the 2 
 You can also visualize a preview of the data set as a confirmation that you have indeed uploaded the correct file. 
 
 The following techniques are used for **assessing the quality of the data set**:
-1. `General data set metadata` - shows some descriptive and structural metadata that offer users some general insights about the content of the data and its structure.
+1. `General data set metadata` - shows some descriptive and structural metadata that offer users some insights about the content of the data and its structure.
 
-2. `Values distribution for a specific column` - select a column and visualize the distribution of its values
+2. `Values distribution for a specific column` - select a column and visualize the distribution of its values.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/32450978/115015418-82716d80-9eab-11eb-8c46-9a11b4e55d1c.gif)
 
-3. `Unique values for a specific column` - select a column and visualize a table of all the unique values in that column sorted descendingly according to their frequency
+3. `Unique values for a specific column` - select a column and visualize a table of all the unique values in that column sorted descendingly according to their frequency.
 
 ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/32450978/115016070-805bde80-9eac-11eb-820e-2ad3851c1346.gif)
 
-4. `Assessing the plausibility of the data set - column similarity` - visualizing a heatmap that informs the user about the relations between columns
+4. `Assessing the plausibility of the data set - column similarity` - visualizing a heatmap that informs the user about the relations between columns.
 
 ![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/32450978/115016793-7a1a3200-9ead-11eb-8d65-0fc3b0cd9eb7.gif)
 
