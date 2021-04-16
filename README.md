@@ -7,7 +7,7 @@ Link to GitHub repository (for project submission): https://github.com/vintage-m
 
 Author: Ioana Dumitrescu
 
-<br> </br>
+<br> 
 The purpose of this project is to establish the data quality of a given dataset and then to provide suggestions on how to improve it.
 
 Run the `data_quality_notebook.ipynb` file and then perform the following actions.
