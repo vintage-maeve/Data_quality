@@ -15,8 +15,9 @@ Run the `data_quality_notebook.ipynb` file and then perform the following action
 In order to start using the notebook, upload the data set using either of the 2 provided methods:
 1. `Direct upload` - change the value of the `file_path` variable to the file path of the desired data set
 1. `Use the upload widget` - select the file that you want to upload and then run the cell named `Validating data upload`, which extracts the content of the uploaded data set.
+You can also visualize a preview of the data set as a confirmation that you have indeed uploaded the correct file.
 
-You can also visualize a preview of the data set as a confirmation that you have indeed uploaded the correct file. 
+## Assessment of data quality
 
 The following techniques are used for **assessing the quality of the data set**:
 1. `General data set metadata` - shows some descriptive and structural metadata that offer users some insights about the content of the data and its structure.
@@ -51,6 +52,7 @@ The following techniques are used for **assessing the quality of the data set**:
 ![ezgif com-gif-maker(4)](https://user-images.githubusercontent.com/32450978/115018095-58ba4580-9eaf-11eb-8076-65cd76c8d89d.gif)
 
 
+## Improving the quality of the data set
 `Cleaning the data set` is in charge of performing the transformation functions for **improving the quality of the data set**:
 
 
