@@ -15,7 +15,7 @@ The following techniques are used for **assessing the quality of the data set**:
 
 2. `Values distribution for a specific column` - select a column and visualize the distribution of its values.
 
-/collapse ![ezgif com-gif-maker](https://user-images.githubusercontent.com/32450978/115015418-82716d80-9eab-11eb-8c46-9a11b4e55d1c.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/32450978/115015418-82716d80-9eab-11eb-8c46-9a11b4e55d1c.gif)
 
 3. `Unique values for a specific column` - select a column and visualize a table of all the unique values in that column sorted descendingly according to their frequency.
 
@@ -23,7 +23,7 @@ The following techniques are used for **assessing the quality of the data set**:
 
 4. `Assessing the plausibility of the data set - column similarity` - visualizing a heatmap that informs the user about the relations between columns.
 
-/collapse![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/32450978/115016793-7a1a3200-9ead-11eb-8d65-0fc3b0cd9eb7.gif)
+![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/32450978/115016793-7a1a3200-9ead-11eb-8d65-0fc3b0cd9eb7.gif)
 
 5. `Missing values analysis - customized missing values` - you can add different values for the missing items (for example, if in your data set -9 represents a missing value, you can add it in the text box and then click 'submit'); multiple values can be added but they must be separated by **commas** (e.g -9,NULL,hello i am a missing value)
 ![ezgif com-gif-maker(3)](https://user-images.githubusercontent.com/32450978/115017345-51466c80-9eae-11eb-8fa1-d4900df0b299.gif)
